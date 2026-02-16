@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Pokémon Rouge/Bleu/Jaune",
+    "type": "officiel",
+    "difficulty": "Facile",
+    "challenges": [
+      { "title": "Terminer la Ligue Pokémon", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer les 150 Pokémon originaux", "difficulty": "hard", "points": 150 },
+      { "title": "Mode Nuzlocke classique", "difficulty": "medium", "points": 100 },
+      { "title": "Battre Blue sans perdre un combat", "difficulty": "hard", "points": 120 },
+      { "title": "Capturer Mewtwo", "difficulty": "easy", "points": 30 },
+      { "title": "Monotype (un seul type)", "difficulty": "hard", "points": 110 }
+    ]
+  },
+  {
+    "name": "Pokémon Or/Argent/Cristal",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Battre les deux Ligues (Johto + Kanto)", "difficulty": "medium", "points": 80 },
+      { "title": "Capturer les trois Pokémon légendaires", "difficulty": "medium", "points": 70 },
+      { "title": "Vaincre Red au Mont Argenté", "difficulty": "extreme", "points": 200 },
+      { "title": "Compléter le Pokédex Johto", "difficulty": "hard", "points": 100 },
+      { "title": "Mode Nuzlocke sur les deux régions", "difficulty": "extreme", "points": 180 },
+      { "title": "Capturer un Pokémon Shiny (chromatique)", "difficulty": "extreme", "points": 150 }
+    ]
+  },
+  {
+    "name": "Pokémon Rubis/Saphir/Émeraude",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Terminer la Ligue Pokémon Hoenn", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer Groudon/Kyogre/Rayquaza", "difficulty": "medium", "points": 60 },
+      { "title": "Vaincre la Zone de Combat (Émeraude)", "difficulty": "hard", "points": 120 },
+      { "title": "Compléter le Pokédex Hoenn", "difficulty": "hard", "points": 110 },
+      { "title": "Cloner un Pokémon (glitch Émeraude)", "difficulty": "easy", "points": 30 },
+      { "title": "Mode Nuzlocke Hardcore", "difficulty": "extreme", "points": 170 }
+    ]
+  },
+  {
+    "name": "Pokémon Rouge Feu/Vert Feuille",
+    "type": "officiel",
+    "difficulty": "Facile",
+    "challenges": [
+      { "title": "Terminer la Ligue Pokémon", "difficulty": "easy", "points": 50 },
+      { "title": "Débloquer les Îles Sevii", "difficulty": "easy", "points": 40 },
+      { "title": "Compléter le Pokédex Kanto", "difficulty": "hard", "points": 100 },
+      { "title": "Capturer les trois oiseaux légendaires", "difficulty": "medium", "points": 70 },
+      { "title": "Monotype Starter uniquement", "difficulty": "extreme", "points": 160 },
+      { "title": "Speedrun moins de 4 heures", "difficulty": "extreme", "points": 200 }
+    ]
+  },
+  {
+    "name": "Pokémon Diamant/Perle/Platine",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Terminer la Ligue Pokémon Sinnoh", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer Dialga/Palkia/Giratina", "difficulty": "medium", "points": 60 },
+      { "title": "Vaincre Cynthia sans objet", "difficulty": "hard", "points": 130 },
+      { "title": "Compléter le Pokédex Sinnoh", "difficulty": "hard", "points": 110 },
+      { "title": "Obtenir 100 victoires à la Tour de Combat", "difficulty": "extreme", "points": 180 },
+      { "title": "Mode Nuzlocke avec interdiction Centre Pokémon", "difficulty": "extreme", "points": 190 }
+    ]
+  },
+  {
+    "name": "Pokémon Or HeartGold/Argent SoulSilver",
+    "type": "officiel",
+    "difficulty": "Difficile",
+    "challenges": [
+      { "title": "Battre les Ligues Johto et Kanto", "difficulty": "medium", "points": 80 },
+      { "title": "Vaincre Red niveau 88", "difficulty": "extreme", "points": 200 },
+      { "title": "Capturer tous les légendaires disponibles", "difficulty": "hard", "points": 120 },
+      { "title": "Compléter le Pokédex National", "difficulty": "extreme", "points": 250 },
+      { "title": "Mode Nuzlocke sur les deux régions", "difficulty": "extreme", "points": 190 },
+      { "title": "Obtenir 16 badges sans évanouissement", "difficulty": "extreme", "points": 220 }
+    ]
+  },
+  {
+    "name": "Pokémon Noir/Blanc",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Terminer la Ligue Pokémon Unys", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer Reshiram/Zekrom", "difficulty": "easy", "points": 40 },
+      { "title": "Vaincre Ghetis sans perdre", "difficulty": "medium", "points": 80 },
+      { "title": "Compléter le Pokédex Unys", "difficulty": "hard", "points": 120 },
+      { "title": "Mode Défi (Challenge Mode)", "difficulty": "hard", "points": 130 },
+      { "title": "Monotype avec Pokémon Unys uniquement", "difficulty": "hard", "points": 110 }
+    ]
+  },
+  {
+    "name": "Pokémon Noir 2/Blanc 2",
+    "type": "officiel",
+    "difficulty": "Difficile",
+    "challenges": [
+      { "title": "Terminer la Ligue en Mode Défi", "difficulty": "hard", "points": 120 },
+      { "title": "Capturer Kyurem et ses formes", "difficulty": "medium", "points": 70 },
+      { "title": "Vaincre tous les champions dans le Pokéwood", "difficulty": "medium", "points": 80 },
+      { "title": "Compléter le Pokédex Unys étendu", "difficulty": "hard", "points": 130 },
+      { "title": "Atteindre le rang maximum à la Tour Noire/Blanche", "difficulty": "extreme", "points": 180 },
+      { "title": "Mode Nuzlocke Challenge Mode", "difficulty": "extreme", "points": 200 }
+    ]
+  },
+  {
+    "name": "Pokémon X/Y",
+    "type": "officiel",
+    "difficulty": "Facile",
+    "challenges": [
+      { "title": "Terminer la Ligue Pokémon Kalos", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer Xerneas/Yveltal", "difficulty": "easy", "points": 40 },
+      { "title": "Mega-évoluer 10 Pokémon différents", "difficulty": "medium", "points": 70 },
+      { "title": "Compléter le Pokédex Central de Kalos", "difficulty": "medium", "points": 80 },
+      { "title": "Mode Nuzlocke avec Exp. Share désactivé", "difficulty": "hard", "points": 120 },
+      { "title": "Battre la Maison de Combat niveau 50", "difficulty": "hard", "points": 110 }
+    ]
+  },
+  {
+    "name": "Pokémon Rubis Oméga/Saphir Alpha",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Terminer la Ligue Pokémon remasterisée", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer Primal Groudon/Kyogre", "difficulty": "medium", "points": 60 },
+      { "title": "Capturer Rayquaza et le Mega-évoluer", "difficulty": "medium", "points": 70 },
+      { "title": "Compléter l'Épisode Delta", "difficulty": "easy", "points": 40 },
+      { "title": "Vaincre tous les Pokémon légendaires via Primo-Résurgence", "difficulty": "hard", "points": 130 },
+      { "title": "Mode Nuzlocke sans Mega-Evolution", "difficulty": "hard", "points": 140 }
+    ]
+  },
+  {
+    "name": "Pokémon Soleil/Lune",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Devenir Maître de la Ligue d'Alola", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer Solgaleo/Lunala", "difficulty": "easy", "points": 40 },
+      { "title": "Compléter toutes les Épreuves d'Alola", "difficulty": "medium", "points": 70 },
+      { "title": "Capturer les Ultra-Chimères", "difficulty": "medium", "points": 80 },
+      { "title": "Compléter le Pokédex d'Alola", "difficulty": "hard", "points": 110 },
+      { "title": "Mode Nuzlocke sans Poké Loisir", "difficulty": "hard", "points": 130 }
+    ]
+  },
+  {
+    "name": "Pokémon Ultra-Soleil/Ultra-Lune",
+    "type": "officiel",
+    "difficulty": "Difficile",
+    "challenges": [
+      { "title": "Vaincre la Ligue avec l'équipe Rainbow Rocket", "difficulty": "hard", "points": 120 },
+      { "title": "Capturer tous les légendaires via Ultra-Brèches", "difficulty": "hard", "points": 140 },
+      { "title": "Vaincre tous les capitaines d'épreuve en rematches", "difficulty": "medium", "points": 80 },
+      { "title": "Obtenir tous les Z-Cristaux", "difficulty": "medium", "points": 90 },
+      { "title": "Compléter l'Agence de Combat niveau 50", "difficulty": "extreme", "points": 180 },
+      { "title": "Mode Nuzlocke Ultra avec capitaines renforcés", "difficulty": "extreme", "points": 200 }
+    ]
+  },
+  {
+    "name": "Pokémon Let's Go Pikachu/Évoli",
+    "type": "officiel",
+    "difficulty": "Facile",
+    "challenges": [
+      { "title": "Devenir Maître Pokémon", "difficulty": "easy", "points": 30 },
+      { "title": "Capturer les 150 premiers Pokémon", "difficulty": "medium", "points": 80 },
+      { "title": "Obtenir une combo-chaîne de 31+", "difficulty": "medium", "points": 70 },
+      { "title": "Vaincre les Maîtres", "difficulty": "medium", "points": 60 },
+      { "title": "Capturer Mewtwo en Master Ball uniquement", "difficulty": "easy", "points": 40 },
+      { "title": "Mode Nuzlocke avec un seul Pokémon", "difficulty": "extreme", "points": 150 }
+    ]
+  },
+  {
+    "name": "Pokémon Épée/Bouclier",
+    "type": "officiel",
+    "difficulty": "Facile",
+    "challenges": [
+      { "title": "Devenir Champion de Galar", "difficulty": "easy", "points": 50 },
+      { "title": "Capturer Zacian/Zamazenta", "difficulty": "easy", "points": 40 },
+      { "title": "Compléter le Pokédex de Galar", "difficulty": "medium", "points": 80 },
+      { "title": "Vaincre Tarak en tournoi", "difficulty": "medium", "points": 70 },
+      { "title": "Terminer les DLC Isolarmure et Couronneige", "difficulty": "medium", "points": 90 },
+      { "title": "Mode Nuzlocke sans Dynamax", "difficulty": "hard", "points": 130 }
+    ]
+  },
+  {
+    "name": "Pokémon Diamant Étincelant/Perle Scintillante",
+    "type": "officiel",
+    "difficulty": "Difficile",
+    "challenges": [
+      { "title": "Vaincre Cynthia niveau 66+", "difficulty": "hard", "points": 120 },
+      { "title": "Capturer les trois Pokémon du Lac", "difficulty": "medium", "points": 70 },
+      { "title": "Compléter le Pokédex National", "difficulty": "extreme", "points": 200 },
+      { "title": "Débloquer et vaincre la Tour de Combat", "difficulty": "hard", "points": 130 },
+      { "title": "Capturer tous les Pokémon légendaires", "difficulty": "hard", "points": 140 },
+      { "title": "Mode Nuzlocke sans Exp. Share", "difficulty": "extreme", "points": 180 }
+    ]
+  },
+  {
+    "name": "Pokémon Légendes Arceus",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Terminer l'histoire principale", "difficulty": "easy", "points": 50 },
+      { "title": "Obtenir le rang 10 étoiles", "difficulty": "hard", "points": 130 },
+      { "title": "Compléter tous les Pokédex à 100%", "difficulty": "extreme", "points": 250 },
+      { "title": "Capturer tous les Pokémon seigneurs", "difficulty": "medium", "points": 80 },
+      { "title": "Vaincre Volo et Giratina", "difficulty": "hard", "points": 140 },
+      { "title": "Mode permadeath (pas de mise K.O.)", "difficulty": "extreme", "points": 200 }
+    ]
+  },
+  {
+    "name": "Pokémon Écarlate/Violet",
+    "type": "officiel",
+    "difficulty": "Moyen",
+    "challenges": [
+      { "title": "Terminer les trois histoires principales", "difficulty": "medium", "points": 80 },
+      { "title": "Vaincre l'Académie Raisin niveau 6", "difficulty": "hard", "points": 120 },
+      { "title": "Capturer les quatre Pokémon fabuleux", "difficulty": "medium", "points": 90 },
+      { "title": "Compléter le Pokédex de Paldea", "difficulty": "hard", "points": 130 },
+      { "title": "Terminer les DLC Trésor enfoui et Indigo", "difficulty": "medium", "points": 100 },
+      { "title": "Mode Nuzlocke monde ouvert", "difficulty": "extreme", "points": 190 }
+    ]
+  }
+]

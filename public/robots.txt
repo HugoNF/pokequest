@@ -1,0 +1,11 @@
+# robots.txt pour PokéQuest
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://votre-domaine.com/sitemap.xml
+
+# Crawl-delay pour respecter les serveurs
+Crawl-delay: 1

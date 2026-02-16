@@ -1,0 +1,28 @@
+{
+  "short_name": "PokéQuest",
+  "name": "PokéQuest - Défis Pokémon",
+  "description": "Plateforme de défis et progression pour jeux Pokémon, ROM hacks et fan games",
+  "icons": [
+    {
+      "src": "pikachu.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pikachu.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#7c3aed",
+  "background_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "categories": ["games", "entertainment"],
+  "lang": "fr",
+  "dir": "ltr",
+  "scope": "/"
+}
