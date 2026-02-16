@@ -1,0 +1,37 @@
+services:
+  # Backend Service
+  - type: web
+    name: pokequest-backend
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server/index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: DATABASE_PATH
+        value: ./server/pokemon-quest.db
+      - key: JWT_SECRET
+        generateValue: true
+      - key: FRONTEND_URL
+        sync: false
+    disk:
+      name: database-storage
+      mountPath: /opt/render/project/src/server
+      sizeGB: 1
+
+  # Frontend Service (Static Site)
+  - type: web
+    name: pokequest-frontend
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: build
+    envVars:
+      - key: REACT_APP_API_URL
+        sync: false
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
